@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zlecenia</string>
+    <string name="nazwa_hint">Nazwa zlecenia</string>
+    <string name="kwota_hint">Kwota</string>
+    <string name="opis_hint">Opis</string>
+    <string name="dodaj_button">Dodaj zlecenie</string>
+    <string name="suma_miesiaca">Suma miesiąca: %1$.2f zł</string>
+</resources>
